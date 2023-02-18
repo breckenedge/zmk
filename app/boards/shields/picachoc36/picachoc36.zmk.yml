@@ -1,0 +1,12 @@
+file_format: "1"
+id: picachoc36
+name: PicaChoc36
+type: shield
+url: https://github.com/zzeneg/picachoc36
+requires: [seeed_xiao]
+features:
+  - keys
+  - encoder
+siblings:
+  - picachoc36_left
+  - picachoc36_right
